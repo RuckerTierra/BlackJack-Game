@@ -11,8 +11,12 @@ body {
   color: yellow;
 }
 
+h1, p {
+  font-weight: bold;
+}
+
 button {
+  font-family: Arial, Helvetica, sans-serif;  
   background-color: yellow;
-  color: ;
   border-radius: 5%;
 }
